@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+h3 {
+  border: 2px solid tomato;
+}
+
+h4 {
+  border: 2px solid tomato;
+}
+
+#logo1 {
+  width: 200px;
+}
+
+#logo2 {
+  width: 300px;
+}
